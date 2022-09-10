@@ -1,0 +1,14 @@
+{
+  "name": "notimation",
+  "version": "1.0.0",
+  "description": "Notimation node client. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Vigil",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

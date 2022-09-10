@@ -1,0 +1,3 @@
+/mnt/c/repos/sdks/examples/c++/CMakeFiles/rebuild_cache.dir
+/mnt/c/repos/sdks/examples/c++/CMakeFiles/notimation.dir
+/mnt/c/repos/sdks/examples/c++/CMakeFiles/edit_cache.dir
